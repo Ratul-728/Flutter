@@ -5,15 +5,15 @@ void main(){
     runApp(MyApp());
 }
 
-class MyApp extends StatefulWidget{
+/*class MyApp extends StatefulWidget{
 
     @override
     State<StatefulWidget>createState(){
         return MyAppState();
     }//createState
-}//Statefull
+}//Statefull */
 
-class MyAppState extends State<MyApp> {
+class MyApp extends StatelessWidget {
 
     var index = 0;
 
