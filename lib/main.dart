@@ -27,10 +27,10 @@ class MyApp extends StatelessWidget {
 
     @override
     Widget build(BuildContext contex) {
-        /*var questions = [
+        var questions = [
             'What\'s your fav color?',
             'What\'s your fav animal?',
-        ];//Question
+        ];//Question 
         return MaterialApp(home: Scaffold(
             appBar: AppBar(
                 title: Text("My first App"),
@@ -46,6 +46,6 @@ class MyApp extends StatelessWidget {
                 ], //Children
             ), //Column
         ), //Scaffold
-      )//MaterialApp */
+      );//MaterialApp
     },//Build
 }//extands Stateless
