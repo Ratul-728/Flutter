@@ -10,7 +10,7 @@ class MyApp extends StatefulWidget{
     @override
     State<StatefulWidget>createState(){
         return MyAppState();
-    };//createState
+    }//createState
 }//Statefull
 
 class MyAppState extends State<MyApp> {
