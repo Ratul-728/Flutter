@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
             'What\'s your fav color?',
             'What\'s your fav animal?',
         ];//Question 
-        return MaterialApp(home: Scaffold(
+        return MaterialApp(home: Text("this is it"),)/*Scaffold(
             appBar: AppBar(
                 title: Text("My first App"),
             ),//AppBar
@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
                     RaisedButton(child: Text('Answer 3'), onPressed: answerQuestion ),
                 ], //Children
             ), //Column
-        ), //Scaffold
+        ), //Scaffold*/
       );//MaterialApp
     },//Build
 }//extands Stateless
