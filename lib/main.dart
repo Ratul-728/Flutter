@@ -8,7 +8,7 @@ void main(){
 class MyApp extends StatelessWidget{
     Widget build(BuildContext contex){
         return MaterialApp(
-            home: Text('Hello');
+            home: Text('Hello'),
         );//MaterialApp
     }//Build
 }//MyApp
