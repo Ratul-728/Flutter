@@ -46,6 +46,6 @@ class MyApp extends StatelessWidget {
                 ], //Children
             ), //Column
         ), //Scaffold
-      ),//MaterialApp
+      )//MaterialApp
     },//Build
 }//extands Stateless
