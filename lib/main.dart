@@ -18,9 +18,9 @@ class MyApp extends StatelessWidget {
     var index = 0;
 
     void answerQuestion(){
-        setState((){
+        /*setState((){
             index++;
-        });//setState
+        });//setState */
         
         print('Answer Chosen!! ');
     }//answerQuestion
